@@ -27,7 +27,3 @@ This script doesn't need to be run with elevated privileges, for this reason i p
 What it's going to do is simply opening a cmd instance and run some commands like systeminfo, ipconfig /all, netstat... to retrieve some usefult information about the target
 Remember to change the PATH and/or the drive letter from the original script in order to let it run properly and print the output on the right location
 This will take about 3 seconds since you plug the rubber ducky into the target machine
-
-## REMEMBER
-All the information given and the scripts you can find here MUST be used for educational purpose only.
-I'm not responsible for any abuse or damage you could cause by using this information.
