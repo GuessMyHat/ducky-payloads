@@ -10,7 +10,7 @@ Under these directories you can find some other sub-directories used to categori
 
 Notice that some payload samples could be used both as normal users and as administrator users depending on the scripts you're going to run
 
-If you just take the peace of code you need to perform your attack under the /Users/ directory you won't need to elevate your privileges to execute them: same things for the example scripts you can find there
+If you just take the peace of code you need to perform your attack under the /Users/ directory you won't need to elevate your privileges to execute them: same things for the example scripts you can find there <br>
 Otherwise, if you look for the same category scripts inside the /Administrators/ directory (even if it already exists in the /Users/ directory) you will need to elevate the privileges of the target machine
 
 So basically, you can turn a normal /Users/ script into an /Administrators/ script, unlike you can't do the same thing with the /Administrators/ scripts to turn them into normal /Users/ scripts
