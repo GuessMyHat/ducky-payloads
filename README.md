@@ -17,5 +17,5 @@ So basically, you can turn a normal /Users/ script into an /Administrators/ scri
 
 
 ### REMEMBER
-All these information and samples scripts are for educational purpose only.
+All these information and samples scripts are for educational purpose only. <br>
 I'm not responsible for any use you will do with all these information, don't get you in trouble.
