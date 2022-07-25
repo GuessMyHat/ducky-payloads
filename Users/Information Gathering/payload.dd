@@ -4,6 +4,6 @@ DELAY 200
 GUI r
 DELAY 150
 REM Replace [DRIVE_LETTER] with the drive letter of your rubber ducky (i.e. E:\)
-STRING [DRIVE_LETTER]:\information gathering.bat
+STRING [DRIVE_LETTER]:\information_gathering.bat
 DELAY 150
 ENTER
