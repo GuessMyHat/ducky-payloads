@@ -4,7 +4,8 @@ Replace the string "[DRIVE_LETTER]" with the ducky USB letter assigned by the ta
 
 ## About the information_gathering.bat script
 This script doesn't need to be run with elevated privileges, for this reason i put this script under the /Users/ directory instead of the /Administrators/ directory <br>
-What it's going to do is simply opening a cmd instance and run some commands like systeminfo, ipconfig /all, netstat... to retrieve some usefult information about the target <br>
+What it's going to do is simply opening a cmd instance and run some commands like systeminfo, ipconfig, netstat... to retrieve some usefult information about the target <br>
+This script also allows you to get the public IP of the target machine by querying 3 different websites <br>
 Remember to change the PATH and/or the drive letter from the original script in order to let it run properly and print the output on the right location
 This will take about 5 seconds since you plug the rubber ducky into the target machine
 
